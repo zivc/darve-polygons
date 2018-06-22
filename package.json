@@ -1,0 +1,20 @@
+{
+  "name": "darve-polygons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zivc/darve-polygons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zivc/darve-polygons/issues"
+  },
+  "homepage": "https://github.com/zivc/darve-polygons#readme"
+}
